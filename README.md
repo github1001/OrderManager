@@ -13,4 +13,6 @@ If you have any question or issues running the app, or intent to build a more co
 
 I do hope I could join to be part of your team, Thank you very much
 
+![](public/images/IndexPage.JPG)
+
 
