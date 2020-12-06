@@ -134,7 +134,7 @@ router.post('/checkout', function(req, res, next){
   }
   var cart = new Cart(req.session.cart);
 
-  var stripe = require('stripe')('sk_test_9Abai3g1Lovak8MIZydtIV93');
+  var stripe = require('stripe')('sk_test_9Abai3g1Lovak8MIZydtIV93'); //your Stripe secret key
 
   // `source` is obtained with Stripe.js; see https://stripe.com/docs/payments/accept-a-payment-charges#web-create-token
   stripe.charges.create({
