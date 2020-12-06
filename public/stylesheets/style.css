@@ -1,0 +1,19 @@
+.thumbnail img{
+    max-height:300px;
+
+}
+
+.thumbnail .description{
+    color: #7f7f7f;
+
+}
+
+.price{
+font-weight:bold;
+font-size:15px;
+
+}
+
+.clearfix {
+    overflow: auto;
+  }
