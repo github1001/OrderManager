@@ -9,9 +9,7 @@ For the sample payment application, I am using Stripe. To integrate for your own
 
 The aim of the app is to implement a simple order and payment application as per per the requirement. I hope I've achieved this. 
 
-If you have any question or issues running the app, or intent to build a more complex application kindly please let me know. 
-
-I do hope I could join to be part of your team, Thank you very much
+If you have any question or issues running the app, or intent to build a more complex application kindly please let me know.
 
 ![](public/images/IndexPage.JPG)
 
